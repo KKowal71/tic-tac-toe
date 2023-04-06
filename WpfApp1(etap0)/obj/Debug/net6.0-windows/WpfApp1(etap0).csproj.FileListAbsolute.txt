@@ -1,0 +1,91 @@
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).exe
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).deps.json
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).runtimeconfig.json
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).pdb
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).csproj.AssemblyReference.cache
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0)_MarkupCompile.cache
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0)_MarkupCompile.lref
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).g.resources
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).AssemblyInfoInputs.cache
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).AssemblyInfo.cs
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).csproj.CoreCompileInputs.cache
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\refint\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).pdb
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).genruntimeconfig.cache
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\ref\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\jkowa\Desktop\Studia\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).exe
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).deps.json
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).runtimeconfig.json
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).pdb
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).csproj.AssemblyReference.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0)_MarkupCompile.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0)_MarkupCompile.lref
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).g.resources
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).AssemblyInfoInputs.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).AssemblyInfo.cs
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).csproj.CoreCompileInputs.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\refint\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).pdb
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).genruntimeconfig.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\ref\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\bin\Debug\net6.0-windows\nunit.framework.dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).csproj.CopyComplete
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).exe
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).deps.json
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).runtimeconfig.json
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).pdb
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\bin\Debug\net6.0-windows\nunit.framework.dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).csproj.AssemblyReference.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0)_MarkupCompile.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0)_MarkupCompile.lref
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).g.resources
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).AssemblyInfoInputs.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).AssemblyInfo.cs
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).csproj.CoreCompileInputs.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).csproj.CopyComplete
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\refint\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).pdb
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).genruntimeconfig.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Wstępne\WpfApp1(etap0)\obj\Debug\net6.0-windows\ref\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).exe
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).deps.json
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).runtimeconfig.json
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\bin\Debug\net6.0-windows\WpfApp1(etap0).pdb
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\bin\Debug\net6.0-windows\nunit.framework.dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).csproj.AssemblyReference.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0)_MarkupCompile.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0)_MarkupCompile.lref
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).g.resources
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).AssemblyInfoInputs.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).AssemblyInfo.cs
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).csproj.CoreCompileInputs.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).csproj.CopyComplete
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\refint\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).pdb
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\WpfApp1(etap0).genruntimeconfig.cache
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\ref\WpfApp1(etap0).dll
+C:\Users\jkowa\Desktop\Studia\semestr IV\Współbieżne\Etap_0\WpfApp1(etap0)\obj\Debug\net6.0-windows\App.baml

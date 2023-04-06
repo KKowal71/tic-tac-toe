@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WdYyZfTQWQaFo7cveqaFJKmhDtylBxkss9f0KLJDDW9XKiI4E7YuAN4E3o7PVBgfi9fWkJj09orOuaFDFT5JuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jkowa\\Desktop\\Studia\\semestr IV\\Współbieżne\\Etap_0\\WpfApp1(etap0)\\WpfApp1(etap0).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jkowa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jkowa\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\jkowa\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
